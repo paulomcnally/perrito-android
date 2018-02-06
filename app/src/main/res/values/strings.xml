@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Perrito</string>
     <string name="action_settings">Settings</string>
+
+    <!-- activity main -->
+    <string name="activity_main_name">Nombre</string>
+    <string name="activity_main_code">Código</string>
+    <string name="activity_main_email">Correo electrónico</string>
 </resources>
