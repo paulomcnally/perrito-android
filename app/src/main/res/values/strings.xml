@@ -6,4 +6,9 @@
     <string name="activity_main_name">Nombre</string>
     <string name="activity_main_code">Código</string>
     <string name="activity_main_email">Correo electrónico</string>
+    <string name="activity_main_name_required">El nombre es requerido.</string>
+    <string name="activity_main_code_required">El código es requerido.</string>
+    <string name="activity_main_email_required">El correo electrónico es requerido.</string>
+
+
 </resources>
